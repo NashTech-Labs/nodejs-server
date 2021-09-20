@@ -6,4 +6,4 @@ Node.js is a platform built on Chrome’s JavaScript Runtime for easily building
 
 # To install Node.js:
 1) $ sudo apt update
-2) sudo apt install nodejs
+2) $ sudo apt install nodejs
